@@ -405,8 +405,11 @@ footer .logo-name:first-of-type {
 
   .header-3 nav .nav-link-2 {
     width: 180px;
-    position: relative;
+    bottom: 490px;
     left: 80px;
+    width: 130px;
+    height: 15px;
+    background-color: white;
   }
 
   .schedule {
@@ -426,7 +429,8 @@ footer .logo-name:first-of-type {
     font-size: 14px;
   }
 
-  header {
+  .header-1,
+  .header-2 {
     position: fixed;
     background-color: white;
     z-index: 999;
